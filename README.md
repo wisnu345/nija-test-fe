@@ -48,10 +48,10 @@ npm run build
 LIVE DEMO
 
 Live Demo:
--
+https://nija-test-fe.vercel.app/wiki
 
 Repository:
--
+https://github.com/wisnu345/nija-test-fe
 
 ---
 
